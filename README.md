@@ -2,10 +2,10 @@
 
 Meu primeiro sistema no C#, com multi janelas, botões, caixas de texto, máscaras e outros.
 
-![image](https://user-images.githubusercontent.com/110628541/206882798-2388d401-9899-4b54-8581-353aa54a2330.png)
+![image](https://user-images.githubusercontent.com/110628541/206883243-562459e3-001e-46aa-bfde-dae21bfc1c3b.png)
 
-![image](https://user-images.githubusercontent.com/110628541/206882936-d6b634b0-df03-4d24-8e21-56ae26bb4a20.png)
+![image](https://user-images.githubusercontent.com/110628541/206883254-bac03580-1c17-42a5-a30d-e7799b5c9706.png)
 
-![image](https://user-images.githubusercontent.com/110628541/206882967-369e3781-607b-4eb6-8e82-37a2eb33bbb4.png)
+![image](https://user-images.githubusercontent.com/110628541/206883267-b87127ec-1ca2-499d-9c79-bf077ef4fba9.png)
 
-![image](https://user-images.githubusercontent.com/110628541/206882988-242396a9-ab1b-4e7c-94a2-31bdce66b148.png)
+![image](https://user-images.githubusercontent.com/110628541/206883287-4fb3734d-cc70-44c5-acbc-c06a97a5acc2.png)
