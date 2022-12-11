@@ -1,0 +1,14 @@
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\bin\Release\Aula 02.exe.config
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\bin\Release\Aula 02.exe
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\bin\Release\Aula 02.pdb
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\obj\Release\Aula 02.csproj.AssemblyReference.cache
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\obj\Release\Aula 02.csproj.SuggestedBindingRedirects.cache
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\obj\Release\Aula_02.Data.resources
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\obj\Release\Aula_02.Frm_Principal.resources
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\obj\Release\Aula_02.Frm_ValidaCPF.resources
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\obj\Release\Aula_02.Frm_MediaEscolar.resources
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\obj\Release\Aula_02.Properties.Resources.resources
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\obj\Release\Aula 02.csproj.GenerateResource.cache
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\obj\Release\Aula 02.csproj.CoreCompileInputs.cache
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\obj\Release\Aula 02.exe
+C:\Users\guigu\OneDrive\GUI\c#\Alura\Aula 02\Aula 02\obj\Release\Aula 02.pdb
